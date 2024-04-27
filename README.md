@@ -1,6 +1,7 @@
 # <p align="center"> Bank-Loan-Defaulter-Prediction-Project-Using-Python </p>
  
-# <p align="center">![image](https://github.com/AhamedSahil/Bank-Loan-Default-Prediction-Project-Using-Python/assets/164605797/5ebc19c1-d7fd-4287-aae0-267d1d10b400)
+# <p align="center">![images](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/ce7ec7b3-01be-42f1-836b-0f5d6828b7c5)
+
 
 </p>
 
@@ -34,7 +35,7 @@ data_ex.info()
 
 ###### result
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/f67f1aba-b496-4191-a304-e7e15766a78a)
+![Img_1](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/467fc5b2-45c3-44c9-affe-494efcd76417)
 
  - ##### We are not having any null values.
 
@@ -45,7 +46,7 @@ data_ex.isnull().sum()
 
 ###### Result
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/b94bf840-eec4-49c8-aa27-7a1172899649)
+![Img_2](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/c7f0e775-5015-4147-ad7a-b5f7874862de)
 
 - ### Outlier treatment 
 
@@ -62,11 +63,11 @@ for column in data_ex:
 ```
 ###### Result 
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/367f6427-c3aa-467f-9b23-e9b45fcb2669)
+![Img_3](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/0667ca86-efe3-418a-8441-d8c3e60b9dc4)
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/adfe04cb-7e05-4fee-9ac4-40c5effc185e)
+![Img_4](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/0b421cc0-94d2-458b-bf34-a967e23bd8d0)
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/3aa4322b-a8e8-4a6b-b0a8-c4d27bb33784)
+![Img_5](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/59263b2f-51ae-4eb2-ac52-ca5984a4186e)
 
 - #### checking the distribution of the data
 
@@ -79,17 +80,17 @@ for col in d1.columns:
 
 ###### Result:
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/937d674f-8b27-43f3-9b99-c07c1ff06b9c) 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/c7ae5608-5dfd-435c-b8b1-910536cd5119)
+![Img_6](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/16113edf-0830-483e-9319-e1241058f20e)
+![Img_7](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/9cb6adb8-3f63-4e4a-98cf-029ba5448ceb)
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/c5a6dbc6-857c-4368-9be0-8678a3c552bc)
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/86dae432-d6dc-4653-863d-d9d7d2991b84)
+![Img_8](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/c5b702da-50d8-4bda-bb93-7ba412244ea6)
+![Img_9](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/ae87d3d0-333f-44ed-9573-c647e73c922b)
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/574280df-fa05-427b-8cb7-4931b76a52c3)
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/12e87db6-c3ee-468b-9341-82eea802850a) 
+![Img_10](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/4fcf5897-3ef0-423b-aad3-f80a1cc0a0a0)
+![Img_11](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/841ad88a-f04c-42b5-9d34-305eab599a30)
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/345d1d2d-82b6-4303-8a52-44afbc6284cf) 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/b649749a-4c23-4945-84aa-5dccb9ea5fa8) 
+![Img_12](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/75f3b677-65f9-44e8-9456-9f6cf0b60162)
+![Img_13](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/d3f6256d-5911-4e7d-ab5f-43363d9a7019)
 
 - #### Correlation 
 ```py
@@ -98,7 +99,7 @@ d1.corr()
 sns.heatmap(d1.corr().abs(),annot=True)
 plt.show()
 ```
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/8684ed71-474b-4ba5-9098-438cc531c54d)
+![Img_14](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/5a0f9d11-97b8-406d-b937-793a51b68343)
 
 - ### Model Evaluation
  - #### Decision Tree Classifier Model
@@ -119,7 +120,7 @@ plt.show()
 
 ###### Result 
 
-![image](https://github.com/AhamedSahil/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/164605797/01759251-e2ce-49a0-9868-a2607cb1509b)
+![Img_15](https://github.com/Aathimuthu25/Bank-Loan-Defaulter-Prediction-Project-Using-Python/assets/158067286/a2f200cc-6b57-46e9-9a92-25cd7a67f494)
 
 - ### Conclusion
 
