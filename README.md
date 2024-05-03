@@ -127,7 +127,7 @@ plt.show()
 - We are having 9 variables in our dataset. We look for some null values and duplicate values but there is no null values and duplicates. After we detect the outliers using box and most of the column having huge number of outliers so we created 3 copies of our original data d1,d2,d3 and then we apply outlier treatment in all the all the valiables in d1. Then we have apply outlier trreatment in some variabls where evere having less ammount of variabels.Then we apply all teh Maching learning models.
 
 
-- we have applied so many machine learning models to get the perfect result without ofverfitting, and finally we get the final model using Logistic regression model there we got 99% accuracy and there is no overfitting.
+- we have applied so many machine learning models to get the perfect result without overfitting, and finally we get the final model using Logistic regression model there we got 99% accuracy and there is no overfitting.
 
 
 
